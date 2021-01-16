@@ -1,0 +1,1 @@
+# Boilerplate with typescript, dynamodb, jest and serverless 
